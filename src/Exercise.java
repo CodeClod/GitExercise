@@ -22,6 +22,9 @@ public class Exercise {
 
         System.out.println("It Works!");
         System.out.println("Hej " + name);
+        System.out.println("Hej " + name);
+        System.out.println("Hej " + name);
+
 
         int age = prog.askAboutAge();
         System.out.println("Your age is " + age);
