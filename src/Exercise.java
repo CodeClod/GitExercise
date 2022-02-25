@@ -28,5 +28,7 @@ public class Exercise {
 
         int age = prog.AgeAsking();
         System.out.println("Your age is " + age);
+        System.out.println("Your age is " + age);
+        System.out.println("Your age is " + age);
     }
 }
